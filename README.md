@@ -36,6 +36,7 @@ The Calendar Clone Website is designed to replicate the functionality and layout
 
 ## 📂 Folder Structure
 
+```
 calendar-clone-website/
 │
 ├── index.html
@@ -55,6 +56,7 @@ calendar-clone-website/
 │   ├── cloude-icon.png
 │   └── google-calendar.png
 
+```
 ---
 
 ## ⚙️ Installation & Setup
